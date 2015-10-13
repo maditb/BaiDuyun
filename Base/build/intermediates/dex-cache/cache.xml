@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\support-annotations-22.2.0-a6e9275707b03653a7c6fe9fbcf508a26b175a6a.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\UnityPlayerActivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51b216555da4e042bcc712c8f55b9350992a95d3">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-d817b6bbf74e47a944a0ba0869c3216a7aeeff05.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8afcb4256b05ffb18a30cd8d7f934ae5a43b8392">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-c1dbeab4d30dbbdd4755f7dd104f0411f3092eed.jar" />
+    </item>
+    <item
+        jar="D:\Android\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\5.6.1\b2705cbb19f52bb4d242458163a98d9e889c1292\analytics-5.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\analytics-5.6.1-d1c97c9c704e1210de89a8e83508e911a1ea63f6.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\UnityPlayerActivity\unspecified\jars\libs\EasyMovieTexture.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1dcd35129cd612211f8fe5a9003925bb230e0586">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\EasyMovieTexture-cbf8228cfeea16d3a90d68ce0794f130008b9c8b.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\internal_impl-22.2.0-624ddbc339e24abb7692dfb204102267d77be952.jar" />
+    </item>
+    <item
+        jar="D:\Android\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\jsoup-1.8.3-c16bfbe0c2cea9b68960e87cdbaebdcb69f165b0.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\UnityPlayerActivity\unspecified\jars\libs\GyroDroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3991c994ca190f1e53d078e1804ada4bc1b6e16">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\GyroDroid-ae76c77d5b21129c7629f2f8d692d56eb522946d.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-c261487336cb61217a719a42ec54a37322d8f5d8.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\AndroidStaggeredGridLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e6e42837d2d2c2d8dfa6861596f13fc20088ba3">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-87e962581407b4c3e39da377afac16395e24b48b.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\ChoosePictures\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6310f3c1241289cf7134780ca2bfbd1bbd2c874">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-e8b548b6b176bcee7ee97c3b9ca13e1299332dae.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLibNetWorkV7Bar\unspecified\jars\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\httpmime-4.1.2-ccbcd0bb8a9dcf3a323ca7295ff6f072c3f4c531.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLibNetWorkV7Bar\unspecified\jars\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\gson-2.2.4-33d3f4d129b53cd1dfaa8e615b464dd71e850a05.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\Android-PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f16cbfd79021656c96b3e925ec5340ce6a53d34e">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-222daeca866b9198353f9c5507769c2ddef011b7.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\ActionBar-PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="941f7b15a2d91fbd983ba60901d72022958a2cbe">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-22a44da16e99cf7e3fdd2845cbcb4a241be9d2a4.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\PhotoViewLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2dd322ac518216877bd28c2da48d6339b94d4ec9">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-f1a260c7d1aa1c506fe9262a0bf8d6103e1a1a79.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\UnityPlayerActivity\unspecified\jars\libs\zip_file.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c614fd77dd17ce90fab8e112128b21bf08092cb6">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\zip_file-061735b41ce1c9de1bf27d048f3f6cedfb84ce6c.jar" />
+    </item>
+    <item
+        jar="D:\Android\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\ormlite-android-4.48-5a9b58fe8aa1b05dd2342c15143ec464753c7fbb.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-a592a379e4d2a5954b971892a7e643c6817cdfab.jar" />
+    </item>
+    <item
+        jar="D:\Android\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\library-2.4.0-67583e56032f0a08f7f735f4c3092c670ec85b88.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLibNetWorkV7Bar\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2768cba065ab57736c8e214abdd58c9cf68a817a">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-22fd297e38f9c32b443fd4c4fb4cf7f2c223e17c.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLibNetWorkV7Bar\unspecified\jars\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\universal-image-loader-1.9.1-c8c6b788435ffcd3f388ea6a6d2be5d3ac7674f7.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\ListViewAnimationLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b50ded4f93a9431b08ebbbe6f4f85c181dbb0a8a">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-6fd2266c05943f046b49e51937bc26121cd3f02f.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\ShimmerLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="60f581d3458ecfb88292a9b37cf8b84fe1c9866d">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-11243f57742188cc7a6420654264ef6c889a3363.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\slidelistview_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ac82eda9bfaa87cdaa158db02a08c6b304342879">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-d8467eb3cc5fec5dacba408ee9f03196eb7d4a3a.jar" />
+    </item>
+    <item
+        jar="D:\Android\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\ormlite-core-4.48-a7d92642972c500dcf1e051016897f836433d8ab.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\UnityPlayerActivity\unspecified\jars\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ecebd98da2f1e39f3f79a78d84d72acf036adc4">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\unity-classes-616b95475708edee649ce733b4629794c93c7d03.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\Volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa8feda93ebd6d067dfe8cac442ebbf95ccab349">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-1aae69252a29320df9e17528d3620c87e2728741.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\library_indicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3dc26248c6695b7822bad0e33f3ab2b682b07809">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\classes-abd0cf55faefb713744c68e75aa1712bbbfa7bc2.jar" />
+    </item>
+    <item
+        jar="D:\Base\app\build\intermediates\exploded-aar\Base\BeiVandaLibNetWorkV7Bar\unspecified\jars\libs\guava-18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\Base\app\build\intermediates\pre-dexed\baidu91\release\guava-18.0-19843639ef6b199d42c71ba43855f581c230a452.jar" />
+    </item>
+
+</items>

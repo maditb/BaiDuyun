@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Base\Volley\res"/><source path="D:\Base\Volley\build\generated\res\rs\release"/><source path="D:\Base\Volley\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\Base\Volley\build-types\release\res"/></dataSet><mergedItems/></merger>
